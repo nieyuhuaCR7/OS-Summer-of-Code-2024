@@ -2,4 +2,4 @@
 
 ## Day 1 2024.4.7
 
-### Read the R-core tutorial book Chapter 0: Abstaction Layer of Operating System
+### Read the R-core tutorial book Chapter 0: Abstraction Layer of Operating System
