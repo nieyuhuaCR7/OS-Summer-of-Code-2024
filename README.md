@@ -12,7 +12,7 @@ My hardware is mac-os, so I just use this command:
 
 '''shell
   curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
-  '''
+'''
 
 successfully printed "hello world" to the command line
 
