@@ -10,7 +10,9 @@ The link for the tutorial book is here: https://doc.rust-lang.org/stable/book/ch
 
 My hardware is mac-os, so I just use this command:  
 
-curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+'''shell
+  curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
+  '''
 
 successfully printed "hello world" to the command line
 
