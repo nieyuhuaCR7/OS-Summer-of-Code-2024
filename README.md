@@ -17,3 +17,7 @@ curl --proto '=https' --tlsv1.2 https://sh.rustup.rs -sSf | sh
 successfully printed "hello world" to the command line
 
 the code is here: https://github.com/nieyuhuaCR7/OS-Summer-of-Code-2024/blob/main/hello_world/main.rs
+
+successfully build a project using cargo
+
+the code is here: https://github.com/nieyuhuaCR7/OS-Summer-of-Code-2024/tree/main/hello_cargo/src
