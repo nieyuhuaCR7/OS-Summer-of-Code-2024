@@ -21,3 +21,9 @@ the code is here: https://github.com/nieyuhuaCR7/OS-Summer-of-Code-2024/blob/mai
 successfully build a project using cargo
 
 the code is here: https://github.com/nieyuhuaCR7/OS-Summer-of-Code-2024/tree/main/hello_cargo/src
+
+## Day 2 2024.4.8
+
+### finished 14/110 of Rustlings exercises
+
+read the contents of rust tutorial of chapter 2 and chapter 3.3
