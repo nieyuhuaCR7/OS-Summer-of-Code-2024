@@ -27,3 +27,7 @@ the code is here: https://github.com/nieyuhuaCR7/OS-Summer-of-Code-2024/tree/mai
 ### finished 14/110 of Rustlings exercises
 
 read the contents of rust tutorial of chapter 2 and chapter 3.3
+
+## Day 3 2024.4.9
+
+### finished 30/110 of Rustlings exercises
