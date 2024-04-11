@@ -31,3 +31,7 @@ read the contents of rust tutorial of chapter 2 and chapter 3.3
 ## Day 3 2024.4.9
 
 ### finished 30/110 of Rustlings exercises
+
+## Day 4 2024.4.10
+
+### finished 37/110 of Rustlings exercises
