@@ -41,3 +41,9 @@ read the contents of rust tutorial of chapter 2 and chapter 3.3
 ### finished 47/110 of Rustlings exercises
 
 read the rust tutorial chapter 8
+
+## Day 7 2024.4.13
+
+### finished 63/110 of Rustlings exercises
+
+I'm kind of confused of "traits" in rust. Need to watch the video
