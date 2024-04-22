@@ -55,3 +55,8 @@ I'm kind of confused of "traits" in rust. Need to watch the video
 ## Day 8 2024.4.15
 
 ### finished 82/110 of Rustlings exercises
+
+
+## Day 14 2024.4.21
+
+### finished 110/110 of Rustlings exercises, turn to "rust course" book for more learning
